@@ -25047,24 +25047,27 @@ color: #000000; }
 /*end-variables sitestylecss*/
  .u-header {background-image: none}
 .u-header .u-sheet-1 {min-height: 119px}
-.u-header .u-line-1 {height: 36px; transform-origin: center bottom 0; width: 3px; margin: 56px 521px 0 auto}
-.u-header .u-text-1 {margin: -71px 683px 0 15px}
-.u-header .u-text-2 {margin: -44px 552px 0 457px}
-.u-header .u-menu-1 {margin: -38px 215px 20px auto}
-.u-header .u-nav-1 {font-size: 1.5rem}
+.u-header .u-layout-wrap-1 {margin: 14px auto 14px 0}
+.u-header .u-layout-cell-1 {min-height: 147px}
+.u-header .u-container-layout-1 {padding: 30px}
+.u-header .u-text-1 {font-weight: 400; font-size: 4.5rem; margin: 0 3px}
+.u-header .u-layout-cell-2 {min-height: 147px}
+.u-header .u-container-layout-2 {padding: 30px}
+.u-header .u-menu-1 {margin: 4px -1px 0}
+.u-header .u-nav-1 {font-weight: 400; font-size: 1.5rem}
 .u-header .u-nav-2 {font-size: 1.25rem} 
 @media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 72px}
-.u-header .u-text-1 {margin-right: 498px; margin-left: 0}
-.u-header .u-text-2 {margin-right: 452px; margin-left: 357px}
-.u-header .u-menu-1 {margin-right: 15px} }
-@media (max-width: 991px){ .u-header .u-text-1 {margin-right: 278px}
-.u-header .u-text-2 {margin-right: 342px; margin-left: 247px}
-.u-header .u-menu-1 {margin-right: auto} }
-@media (max-width: 767px){ .u-header .u-text-1 {margin-right: 98px}
-.u-header .u-text-2 {margin-right: 252px; margin-left: 157px} }
-@media (max-width: 575px){ .u-header .u-line-1 {margin-right: 337px}
-.u-header .u-text-1 {margin-right: auto}
-.u-header .u-text-2 {margin-right: 152px; margin-left: 57px} }
+.u-header .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
+.u-header .u-layout-cell-1 {min-height: 121px}
+.u-header .u-text-1 {width: 314px; margin-left: auto; margin-right: auto}
+.u-header .u-layout-cell-2 {min-height: 121px}
+.u-header .u-menu-1 {margin-right: auto; margin-left: auto} }
+@media (max-width: 991px){ .u-header .u-layout-cell-1 {min-height: 100px}
+.u-header .u-text-1 {width: 300px}
+.u-header .u-layout-cell-2 {min-height: 100px} }
+@media (max-width: 767px){ .u-header .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+.u-header .u-container-layout-2 {padding-left: 10px; padding-right: 10px} }
+
  .u-footer {background-image: none}
 .u-footer .u-sheet-1 {min-height: 133px}
 .u-footer .u-group-1 {min-height: 63px; width: 570px; margin: 35px auto}
