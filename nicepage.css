@@ -25065,7 +25065,8 @@ color: #000000; }
 @media (max-width: 575px){ .u-header .u-line-1 {margin-right: 337px}
 .u-header .u-text-1 {margin-right: auto}
 .u-header .u-text-2 {margin-right: 152px; margin-left: 57px} }
- .u-footer .u-sheet-1 {min-height: 133px}
+ .u-footer {background-image: none}
+.u-footer .u-sheet-1 {min-height: 133px}
 .u-footer .u-group-1 {min-height: 63px; width: 570px; margin: 35px auto}
 .u-footer .u-container-layout-1 {padding-left: 60px; padding-right: 60px}
 .u-footer .u-text-1 {margin: 5px 0} 
