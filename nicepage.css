@@ -25064,7 +25064,7 @@ color: #000000; }
 .u-header .u-container-layout-3 {padding: 30px}
 .u-header .u-social-icons-1 {white-space: nowrap; height: 60px; min-height: 16px; width: 60px; min-width: 16px; margin: 27px auto 0}
 .u-header .u-icon-1 {height: 100%} 
-@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 72px}
+@media (max-width: 1199px){ .u-header .u-sheet-1 {min-height: 100px}
 .u-header .u-layout-wrap-1 {position: relative; margin-right: initial; margin-left: initial}
 .u-header .u-layout-cell-1 {min-height: 143px}
 .u-header .u-image-1 {animation-duration: 1000ms}

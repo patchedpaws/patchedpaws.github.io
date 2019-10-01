@@ -12,7 +12,7 @@
 .u-section-1 .u-container-layout-3 {padding: 30px}
 .u-section-1 .u-btn-2 {border-style: solid; margin: 206px auto 0} 
 
-@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 82px}
+@media (max-width: 1199px){ .u-section-1 .u-sheet-1 {min-height: 100px}
 .u-section-1 .u-layout-wrap-1 {margin-right: initial; margin-left: initial}
 .u-section-1 .u-layout-cell-1 {min-height: 429px}
 .u-section-1 .u-image-1 {width: 535px; height: 321px}
@@ -20,16 +20,13 @@
 .u-section-1 .u-btn-1 {animation-duration: 1000ms}
 .u-section-1 .u-layout-cell-3 {min-height: 429px} }
 
-@media (max-width: 991px){ .u-section-1 .u-sheet-1 {min-height: 63px}
-.u-section-1 .u-layout-cell-1 {min-height: 100px}
+@media (max-width: 991px){ .u-section-1 .u-layout-cell-1 {min-height: 100px}
 .u-section-1 .u-image-1 {width: 396px; height: 237px}
 .u-section-1 .u-layout-cell-2 {min-height: 100px}
 .u-section-1 .u-layout-cell-3 {min-height: 100px} }
 
-@media (max-width: 767px){ .u-section-1 .u-sheet-1 {min-height: 47px}
-.u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
+@media (max-width: 767px){ .u-section-1 .u-container-layout-1 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-container-layout-2 {padding-left: 10px; padding-right: 10px}
 .u-section-1 .u-container-layout-3 {padding-left: 10px; padding-right: 10px} }
 
-@media (max-width: 575px){ .u-section-1 .u-sheet-1 {min-height: 30px}
-.u-section-1 .u-image-1 {width: 320px; height: 192px} }
+@media (max-width: 575px){ .u-section-1 .u-image-1 {width: 320px; height: 192px} }
